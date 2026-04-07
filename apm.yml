@@ -1,0 +1,9 @@
+name: test2
+version: "1.0.0"
+description: "test2"
+difficulty: beginner
+tags:
+  []
+tech_stacks:
+  - react
+  - next-js
